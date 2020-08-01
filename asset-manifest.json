@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/turn-take.github.io/static/css/main.60a63524.chunk.css",
+    "main.js": "/turn-take.github.io/static/js/main.d4e7b551.chunk.js",
+    "main.js.map": "/turn-take.github.io/static/js/main.d4e7b551.chunk.js.map",
+    "runtime-main.js": "/turn-take.github.io/static/js/runtime-main.32f34b4d.js",
+    "runtime-main.js.map": "/turn-take.github.io/static/js/runtime-main.32f34b4d.js.map",
+    "static/js/2.415d515d.chunk.js": "/turn-take.github.io/static/js/2.415d515d.chunk.js",
+    "static/js/2.415d515d.chunk.js.map": "/turn-take.github.io/static/js/2.415d515d.chunk.js.map",
+    "index.html": "/turn-take.github.io/index.html",
+    "precache-manifest.f31f3457d83fe8a0d631b1df67577397.js": "/turn-take.github.io/precache-manifest.f31f3457d83fe8a0d631b1df67577397.js",
+    "service-worker.js": "/turn-take.github.io/service-worker.js",
+    "static/css/main.60a63524.chunk.css.map": "/turn-take.github.io/static/css/main.60a63524.chunk.css.map",
+    "static/js/2.415d515d.chunk.js.LICENSE.txt": "/turn-take.github.io/static/js/2.415d515d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32f34b4d.js",
+    "static/js/2.415d515d.chunk.js",
+    "static/css/main.60a63524.chunk.css",
+    "static/js/main.d4e7b551.chunk.js"
+  ]
+}
